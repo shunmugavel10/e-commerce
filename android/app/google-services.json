@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522804508064",
+    "project_id": "shopapp-3627c",
+    "storage_bucket": "shopapp-3627c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522804508064:android:e7e695802fdd5e06b2e0c5",
+        "android_client_info": {
+          "package_name": "com.shunmugavel.shopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522804508064-7cf0g9si44mvnqfv9kkdk1o48usik2d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGieSPm-r4PSZ6D07sdmA6_RIW3ReIDrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522804508064-7cf0g9si44mvnqfv9kkdk1o48usik2d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
